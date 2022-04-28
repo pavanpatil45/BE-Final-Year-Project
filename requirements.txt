@@ -1,0 +1,5 @@
+tensorflow
+pillow
+numpy
+h5py
+streamlit
